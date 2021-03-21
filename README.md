@@ -6,3 +6,5 @@ If you want to use them in your projects, please attribute my github: https://gi
 More the solutions soon!
 
 If you use it for noncommarcial here you are!
+
+*I does not solve all competitions but some of them*
