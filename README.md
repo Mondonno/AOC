@@ -7,4 +7,5 @@ More the solutions soon!
 
 If you use it for noncommarcial here you are!
 
+*Folders are numerted as the challaneges ID's*
 *I does not solve all competitions but some of them*
