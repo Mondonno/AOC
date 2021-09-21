@@ -1,7 +1,14 @@
-# AOC2020
-My solutions for Advent Of Code 2020 :) 
+# Advent Of Code Solutions
+Here are solutions for [Advent Of Code]() puzzels,
+wich are organized as Advent calendar.
 
-The folder names representing the execrisces in [**Advent Of Code**](https://adventofcode.com/)
-If you want to use them in your projects, please attribute my github: https://github.com/Mondonno
+## File structure
 
-If you use it for noncommarcial here you are!
+First on files structure is the year.
+After that are folders named as the number of problems solved.
+Then it begins, the code step. Usually one porblem folder have an input file, and code files.
+
+## PR, Bugs and issues
+
+Just report it on github issues tab ;P
+Every pull request is awsome <3
