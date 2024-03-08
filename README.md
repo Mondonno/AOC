@@ -8,7 +8,7 @@ First on files structure is the year.
 After that are folders named as the number of problems solved.
 Then it begins, the code step. Usually one porblem folder have an input file, and code files.
 
-## PR, Bugs and issues
+## PR's and issues
 
-Just report it on github issues tab ;P
-Every pull request is awsome <3
+To report an issue, just do it through Issues tab on this repository.
+Every pull request is awesome, i'll love it! <3
